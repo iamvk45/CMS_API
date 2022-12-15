@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CMS_API_BO\CMS_API_BO.csproj" />
+    <ProjectReference Include="..\CMS_API_DL\CMS_API_DL.csproj" />
+  </ItemGroup>
+
+</Project>
